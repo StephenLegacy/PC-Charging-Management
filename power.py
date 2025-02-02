@@ -22,7 +22,7 @@ def monitor_battery():
             break
         else:
             print(f"Battery: {battery.percent}% - Charging: {'Yes' if battery.power_plugged else 'No'}")
-            time.sleep(30)  # check every 30 seconds
+            time.sleep(10)  # check every 10 seconds
 
 if __name__ == "__main__":
     monitor_battery()

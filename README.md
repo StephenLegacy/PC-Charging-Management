@@ -8,7 +8,8 @@ This Python script monitors your computer's battery status and automatically sto
 
 ### Prerequisites
 
-Before you start, make sure you have the following installed:
+Before you start, make sure you have the following installed - Dwnload from the official websites
+:
 
 - **Python** (version 3.x)
 - **pip** (Python's package installer)

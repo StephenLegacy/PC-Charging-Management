@@ -11,7 +11,7 @@ def stop_charging():
         os.system('powercfg /batteryreport')
     elif os.name == 'posix':  # Linux
         print("Stopping charging in Linux isn't straightforward via script.")
-        # Some laptops may allow you to control charging behavior through BIOS/UEFI settings or third-party software.
+        # Some laptops may allow you to control charging behavior through BIOS/UEFI settings or third-party software. Check first
 
 def monitor_battery():
     while True:

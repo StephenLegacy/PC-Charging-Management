@@ -4,7 +4,7 @@
 
 **Created By StephenLegacy**
 
-This Python script monitors your computer's battery status and automatically stops charging once the battery reaches 100%. The script works on **Windows** and **Linux**, but note that stopping charging programmatically in Linux may not be straightforward. 
+This Python script monitors a computer's battery status and automatically stops charging once the battery reaches 100%. The script works on **Windows** and **Linux**, but note that stopping charging programmatically in Linux may not be straightforward. 
 
 ### Prerequisites
 

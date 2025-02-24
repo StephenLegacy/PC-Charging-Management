@@ -1,6 +1,6 @@
 
 
-# Battery Monitoring Script for Stopping Charging at 100%
+# Battery Monitoring Script for Stopping Laptop  Charging at 100%
 
 **Created By StephenLegacy**
 
